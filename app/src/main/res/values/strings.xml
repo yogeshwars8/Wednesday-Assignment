@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wednsday-Assignment</string>
+    <string name="no_result_found">Oops! No result found for you search</string>
+    <string name="search_hint">Search Artist, Song e.g Arjit Singh</string>
+</resources>
